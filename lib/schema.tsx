@@ -124,7 +124,7 @@ export const aboutPage = {
       "worksFor": {
             "@type": "Corporation",
             "name": "Agreedment",
-            "url": "https://Agreedment.com/about/"
+            "url": "https://agreedment.com/about/"
      },
       "alumniOf": [
          {
