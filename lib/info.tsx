@@ -12,7 +12,7 @@ export const about = () => {
 export const bio = () => {
   return (
     <>
-      When I'm not coding and running Agreedment, I'm probably learning how to acquire tech companies or obtaining my pilot lincense. I also love to travel and explore new places.
+      When I'm not coding and running Agreedment, I'm helping others bootstrap their Software As A Service companies.
     </>
   );
 };
